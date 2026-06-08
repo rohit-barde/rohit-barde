@@ -1,7 +1,6 @@
-# Rohit-Barde
-About a Myself
 
-# Hi there, I'm Rohit Barde 👋
+
+### Hi there, I'm Rohit Barde 👋
 
 I am a Computer Science student at **IET DAVV** specializing in Full-stack Software Engineering and Data Analytics. I bridge the gap between building robust web applications and extracting meaningful insights from data.
 
