@@ -1,7 +1,7 @@
 
 
 ### Hi there, I'm Rohit Barde 👋
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=800&color=FF8C00&width=500&lines=Data%2C+Insights%2C+Impact!;Data+Analyst+📊;Turning+Numbers+into+Stories+🔥;Learning+Never+Stops+📖)
+![Typing SVG](https://herokuapp.com+💻;Web+Developer+🌐;Data+Analyst+📊;Data%2C+Insights%2C+Impact!;Turning+Numbers+into+Stories+🔥;Learning+Never+Stops+📖)
 
 I am a Computer Science student at **IET DAVV** specializing in Full-stack Software Engineering and Data Analytics. I bridge the gap between building robust web applications and extracting meaningful insights from data.
 
